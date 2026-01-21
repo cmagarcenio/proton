@@ -1,6 +1,5 @@
 # Prerequisites
 ###########
-######
 -newlines
 - JDK 21
 - Maven 3.9 
